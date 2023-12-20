@@ -1,0 +1,44 @@
+# Problema: Comprare qualcosa su Amazon
+## Il regalo perfetto
+
+- Guardo il calendario
+- Mi accorgo che domani è il compleanno di Silvia
+- Accendo il PC
+- Apro il browser
+- Controllo il saldo disponibile sulla mia carta
+- Imposto un budget da spendere
+- Vado sul sito di Amazon
+- Penso alle idee regalo
+- Cerco una lampada da tavolo con un design particolare
+- SCORRO nella lista dei prodotti
+- Seleziono la lampada
+    - SE? la consegna è Prime: 
+        - metto nel carrello la lampada
+    - ALTRIMENTI torno alla home
+        - Penso alle idee regalo
+        - Cerco una penna
+        - SCORRO nella lista dei prodotti
+        - Seleziono la penna
+            - SE? la penna è stilografica AND rientra nel budget
+                - metto nel carrello la penna
+            - ALTRIMENTI torno alla home
+                - Penso alle idee regalo
+                - cerco un libro
+                - SCORRO nella lista dei prodotti
+                - Seleziono un libro
+                    - SE? la spedizione è Prime AND rientra nel budget
+                        - metto nel carrello il libro
+                    - ALTRIMENTI cerco un altro libro
+- Vado nella sezione "il mio Carrello"
+- Confermo l'ordine
+- Inserisco i dati per il pagamento
+- Confermo dati per il pagamento
+- Valuto le opzioni di consegna
+    - SE? C'è un Amazon Locker entro 200mt
+        - Seleziono il Locker
+    - ALTRIMENTI
+        - Inserisco l'indirizzo di Silvia
+        - Seleziono la spunta "É un regalo"
+- Procedo al pagamento
+- Chiudo Amazon
+- Spengo il PC
