@@ -14,16 +14,12 @@
 - Seleziono la lampada
     - SE? la consegna è Prime: 
         - metto nel carrello la lampada
-    - ALTRIMENTI torno alla home
-        - Penso alle idee regalo
-        - Cerco una penna
+    - ALTRIMENTI Cerco una penna
         - SCORRO nella lista dei prodotti
         - Seleziono la penna
             - SE? la penna è stilografica AND rientra nel budget
                 - metto nel carrello la penna
-            - ALTRIMENTI torno alla home
-                - Penso alle idee regalo
-                - cerco un libro
+            - ALTRIMENTI cerco un libro
                 - SCORRO nella lista dei prodotti
                 - Seleziono un libro
                     - SE? la spedizione è Prime AND rientra nel budget
